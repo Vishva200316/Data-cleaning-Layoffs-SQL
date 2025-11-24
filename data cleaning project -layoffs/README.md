@@ -5,7 +5,7 @@ The goal is to transform raw, messy data into a clean and structured format suit
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 - **layoffs.csv** — Original dataset  
 - **layoffs_cleaned.csv** — Final cleaned dataset exported from MySQL  
@@ -13,7 +13,7 @@ The goal is to transform raw, messy data into a clean and structured format suit
 
 ---
 
-## 🧹 Steps Performed During Cleaning
+## Steps Performed During Cleaning
 
 1. Removed duplicates  
 2. Standardized company names  
@@ -24,14 +24,14 @@ The goal is to transform raw, messy data into a clean and structured format suit
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **MySQL Workbench**
 - **SQL (Data Cleaning Queries)**
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 To demonstrate my ability to:
 - Clean and prepare real-world datasets  
@@ -39,7 +39,7 @@ To demonstrate my ability to:
 - Build structured and reproducible workflows
 
 ---
-## 🔹 Before and After Cleaning
+## Before and After Cleaning
 
 **Before Cleaning**
 
@@ -48,5 +48,6 @@ To demonstrate my ability to:
 **After Cleaning**
 
 ![After Cleaning](assets/after_cleaning.png)
+
 
 
