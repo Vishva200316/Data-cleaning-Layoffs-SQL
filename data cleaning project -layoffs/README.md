@@ -43,11 +43,12 @@ To demonstrate my ability to:
 
 **Before Cleaning**
 
-![Before Cleaning](assets/before_cleaning.png)
+![Before Cleaning](assets/layoffs_Raw_Dataset.png)
 
 **After Cleaning**
 
-![After Cleaning](assets/after_cleaning.png)
+![After Cleaning](assets/Layoffs_Cleaned_Dataset.png)
+
 
 
 
